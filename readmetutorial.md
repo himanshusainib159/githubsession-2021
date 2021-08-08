@@ -5,7 +5,7 @@ this is normal textline
 
 **this text will be bold**
 
-*this text text will be italic italic*
+*text will be  italic*
 
 list
 1
