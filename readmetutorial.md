@@ -20,11 +20,16 @@ list
 ordered list
 1. item1
 2. item2
-  1. sublist
-  2. sublist2
+3. item3
+
+nested list
+1. item1
+2. item2
+   1. item1
+   2. item2
 
 3. item3
-new beginning
+4. item4
 
 unordered list
 * item1
