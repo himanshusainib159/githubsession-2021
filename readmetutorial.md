@@ -1,11 +1,11 @@
 # this is heading 1
 ## this is heading 2
 ###### this is heading 3
-this is normal textline
+this is normal normal textline
 
 **this text will be bold**
 
-*text will be italic italic*
+*text will be  italic*
 
 list
 1
